@@ -1,5 +1,3 @@
-# Arrays & Iterating Over Them
-
 # Arrays & Conditionals Continued
 
 ### Lesson Objectives
