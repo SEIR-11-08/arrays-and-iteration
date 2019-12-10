@@ -1,12 +1,5 @@
 # Arrays & Iterating Over Them
 
-<hr>
-Title: Arrays <br>
-Type: Lesson<br>
-Duration: 1 hr 30 min<br>
-Topics: Intro to Arrays & Iterating over them <br>
-<hr>
-
 # Arrays & Conditionals Continued
 
 ### Lesson Objectives
