@@ -206,7 +206,7 @@ for (let i = 0; i < foodSelections.length; i ++) {
 };
 ```
 
-- We used a modulus `||` to set an **or** condition.
+- We used a logical OR `||` to set an **or** condition.
 
 >Output:
 ```
