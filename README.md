@@ -1,6 +1,6 @@
 # Arrays & Conditionals Continued
 
-### Lesson Objectives
+## Lesson Objectives
 _After this lesson, students will be able to:_
 
 - Declare an empty array
@@ -11,10 +11,6 @@ _After this lesson, students will be able to:_
 - Use at least 6 array methods, and research more methods on their own
 - Use expressions with the square brackets to access elements
 - Access elements in a multi-dimensional array
-<br>
-<hr>
-
-
 
 
 <hr>
@@ -451,8 +447,3 @@ const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
 * What would you write to access "Jacc"?
 * Change "Baked Goods" to "No One"
 * Research the `.splice()` method and remove "Eggbert"
-
-<br>
-<hr>
-License
-<hr>
